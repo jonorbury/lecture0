@@ -1,8 +1,13 @@
 h1 {
-    color: blue;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: maroon;
     text-align: center;
 }
 
 p {
-    color: red;
+    color: maroon;
 }
