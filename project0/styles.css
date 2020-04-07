@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-    color: maroon;
+    color: BLACK;
     text-align: center;
     font-family: Arial, sans-serif;
     font-size:250%;
@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-    color: black;
+    color: MAROON;
     text-align: center;
     font-family: Arial, sans-serif;
     font-size:200%;
@@ -58,9 +58,6 @@ th {
     background-color: lightgray;
 }
 
-/* #link {
-} */
-
 li{
   font-family: Arial, sans-serif;
   font-weight: bold;
@@ -82,7 +79,7 @@ ul {
 
 .center{
   margin: auto;
-  width: 70%;
+  width: 50%;
   padding: 10px;
 }
 
@@ -91,10 +88,8 @@ a {
 }
 
 a:hover {background:maroon}
-a:visited {color:black;}
+a:visited {color:OLIVE;}
 
 .home {
   a hef=/INDEX.html
 }
-
-/* a:link {color:inherit;}} */
