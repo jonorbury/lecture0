@@ -48,6 +48,14 @@ table {
   font-size: 300%;
 }
 
+.items_table{
+  margin: auto;
+  width: 50%;
+  border: 18px solid olive;
+  padding: 10px;
+  font-size: 300%;  
+}
+
 th, td {
     border: 1px solid black;
     padding: 5px;
