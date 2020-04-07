@@ -1,0 +1,100 @@
+body{
+  font-family: Arial, sans-serif;
+  color: maroon;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 400%;
+    class: "title";
+    opacity: 70%;
+}
+
+h2 {
+    color: maroon;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size:250%;
+    opacity: 70%;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size:200%;
+    opacity:70%;
+}
+
+p {
+    /* color: maroon; */
+    font-family: Arial, sans-serif;
+    font-size: 200%;
+}
+
+table {
+    /* border: 2px solid black; */
+    border-collapse: collapse;
+    width: 50%;
+    border-color: olive;
+}
+
+.links_table{
+  margin: auto;
+  width: 50%;
+  border: 18px solid olive;
+  padding: 10px;
+  font-size: 300%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+}
+
+/* #link {
+} */
+
+li{
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.sli {
+  color: teal;
+  opacity: 50%;
+}
+
+ol{
+  font-size: 150%;
+}
+
+ul {
+  font-size: 60%;
+  opacity: 80%;
+}
+
+.center{
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+
+a {
+  color:inherit;
+}
+
+a:hover {background:maroon}
+a:visited {color:black;}
+
+.home {
+  a hef=/INDEX.html
+}
+
+/* a:link {color:inherit;}} */
