@@ -50,10 +50,10 @@ table {
 
 .items_table{
   margin: auto;
-  /* width: 50%; */
+  width: 100%;
   border: 6px solid olive;
   padding: 10px;
-  /* font-size: 300%;   */
+  font-size: 150%;
 }
 
 th, td {
